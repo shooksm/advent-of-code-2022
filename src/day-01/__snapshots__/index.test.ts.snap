@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Day 1 Puzzle 1 should calculate the correct answer 1`] = `71780`;
+
+exports[`Day 1 Puzzle 2 should calculate the correct answer 1`] = `212489`;
